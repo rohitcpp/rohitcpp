@@ -37,16 +37,11 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
 - **Advanced Editing Tools:** Offers a robust suite of tools for both novice and professional users.
 - **Open-Source:** Parts of the codebase utilize open-source contributions, enhancing functionality and flexibility.
 
-<p align="center">
-  <img src="./images/vardaan.png" alt="Mission Vardaan Studio Screenshot" width="30%" />
-</p>
 
-
-
-[🔗 Explore Mission Vardaan Studio on GitHub](https://github.com/mr-saadhak/Mission-Vardaan-Studio)
+[🔗 Explore Mission Vardaan Studio on GitHub]([https://github.com/mr-saadhak/Mission-Vardaan-Studio](https://github.com/vardaan-studio/mission-vardaan-studio))
 
 ---
 
 ### 📫 Let's Connect!
-- **GitHub:** [mr-saadhak](https://github.com/mr-saadhak)
+- **GitHub:** [rohitcpp](https://github.com/rohitcpp)
 - **Instagram:** [vardaan__19](https://www.instagram.com/vardaan__19)
