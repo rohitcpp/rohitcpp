@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rohit More!
 
-Welcome to my GitHub! I'm a passionate **developer, problem solver, and tech enthusiast** who loves working on exciting projects and learning new technologies. Right now, I'm focused on **Mission Vardaan Studio**, a project that aims to deliver a top-notch video editing experience.
+Welcome to my GitHub! I'm a passionate **developer, problem solver, and tech explorer** who loves working on exciting projects and learning new technologies. Right now, I'm focused on **Mission Vardaan Studio**, a project that aims to deliver a top-notch video editing experience.
 
 ---
 
