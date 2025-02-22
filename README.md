@@ -1,10 +1,12 @@
-# 👋 Hello, I'm Rohit More!
+# 👋 Hey, I'm Rohit More!
 
-Welcome to my GitHub profile! I’m currently working on various programming languages and an exciting project named **Mission Vardaan Studio**.
+Welcome to my GitHub! I'm a passionate **developer, problem solver, and tech enthusiast** who loves working on exciting projects and learning new technologies. Right now, I'm focused on **Mission Vardaan Studio**, a project that aims to deliver a top-notch video editing experience.
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 Technologies I Work With
+
+Here are some of the technologies and tools I use:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -23,25 +25,26 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
+---
 
+## 🎯 My Current Project: **Mission Vardaan Studio**
+
+🚀 **Mission Vardaan Studio** is a next-level video editing software I’m developing using **QML for UI**, **C++ for backend**, and a range of other cutting-edge technologies.
+
+### 🔥 What Makes It Special?
+- 🎨 **Sleek & User-Friendly UI** – Designed with inspiration from professional tools like Wondershare Filmora.
+- 🌍 **Cross-Platform Compatibility** – Works seamlessly across different operating systems.
+- 🎬 **Feature-Rich Editing Tools** – Perfect for beginners and professionals alike.
+- 🔗 **Open-Source Contributions** – Encouraging community-driven development for better functionality.
+
+[🚀 Check Out Mission Vardaan Studio](https://github.com/vardaan-studio/mission-vardaan-studio)
 
 ---
 
-### 🌟 Featured Project: Mission Vardaan Studio
+## 📬 Let's Connect!
 
-**Mission Vardaan Studio** is a comprehensive video editing software project developed using a combination of **QML** for UI, **C++** for backend functionality, and various other tools. 
+📌 **GitHub:** [rohitcpp](https://github.com/rohitcpp)  
+📸 **Instagram:** [@vardaan__19](https://www.instagram.com/vardaan__19)  
 
-#### Project Highlights:
-- **Smart UI:** Sleek, user-friendly design inspired by Wondershare Filmora.
-- **Global Language Support:** Ensures compatibility across various platforms.
-- **Advanced Editing Tools:** Offers a robust suite of tools for both novice and professional users.
-- **Open-Source:** Parts of the codebase utilize open-source contributions, enhancing functionality and flexibility.
+Feel free to connect and collaborate! Let's build something amazing together. 🚀
 
-
-[🔗 Explore Mission Vardaan Studio on GitHub]([https://github.com/mr-saadhak/Mission-Vardaan-Studio](https://github.com/vardaan-studio/mission-vardaan-studio))
-
----
-
-### 📫 Let's Connect!
-- **GitHub:** [rohitcpp](https://github.com/rohitcpp)
-- **Instagram:** [vardaan__19](https://www.instagram.com/vardaan__19)
