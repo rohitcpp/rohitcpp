@@ -29,7 +29,7 @@ Here are some of the technologies and tools I use:
 
 ### 💼 Key Features:
 - 📄 **Resume Uploader** – Easy upload and parsing of candidate resumes.
-- 🔍 **Job Listing & Filtering** – Intuitive job board for exploring relevant roles.
+- 🔍 **Job Listing & Filtering** – User-friendly job board to explore relevant opportunities
 - 🧠 **Smart UI Components** – Modular, reusable components for scalability.
 - 📊 **Admin & Recruiter Dashboards** (upcoming) – Easy management of listings and applicants.
 
