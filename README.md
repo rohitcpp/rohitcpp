@@ -27,7 +27,7 @@ Here are some of the technologies and tools I use:
 
 ## 🎯 My Current Project: **Job Placement Platform**
 
-🚀 This project is a full-fledged platform that connects **job seekers** with **recruiters** through a user-friendly, responsive, and efficient web interface. It is being built using **React.js**, **Next.js**, and modern frontend best practices.
+🚀 This project is a full-fledged platform that connects **job seekers** with **recruiters** through a user-friendly, responsive, and efficient web interface. It is being built using **React.js**, **Next.js**, and modern backend best practices like **Node.js** with **PostgreSQL** as the primary database..
 
 ### 💼 Key Features:
 - 📄 **Resume Uploader** – Easy upload and parsing of candidate resumes.
