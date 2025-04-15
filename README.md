@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rohit More!
 
-Welcome to my GitHub! I'm a **developer and problem solver** focused on building purposeful apps. Currently working on a **Job Placement Platform** connecting talent with opportunity
+Welcome to my GitHub! I'm a **developer and problem solver** focused on building purposeful apps. Currently working on a **Job Placement Platform** connecting talent with opportunity.
 
 ---
 
