@@ -45,6 +45,9 @@ Here are some of the technologies and tools I use:
 
 📌 **GitHub:** [rohitcpp](https://github.com/rohitcpp)  
 📸 **Instagram:** [@vardaan__19](https://www.instagram.com/vardaan__19)  
+🔗 **LinkedIn:** [Rohit More](https://www.linkedin.com/in/rohit--more/)
+
+
 
 Feel free to connect and collaborate! Let's build something amazing together. 🚀
 
