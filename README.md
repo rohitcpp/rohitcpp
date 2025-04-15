@@ -48,8 +48,9 @@ Here are some of the technologies and tools I use:
 ## 📬 Let's Connect!
 
 🐦 **X (Twitter):** [@rohit_oncode](https://x.com/rohit_oncode)   
-🔗 **LinkedIn:** [Rohit More](https://www.linkedin.com/in/rohit--more/)
+🔗 **LinkedIn:** [Rohit More](https://www.linkedin.com/in/rohit--more/)  
 📸 **Instagram:** [@vardaan__19](https://www.instagram.com/vardaan__19)
+
 
 ---
 
