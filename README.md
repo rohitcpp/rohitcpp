@@ -43,7 +43,7 @@ Here are some of the technologies and tools I use:
 
 🎬 This was a passionate attempt to build a cross-platform video editing application using **QML and C++**, inspired by industry tools like Wondershare Filmora. Although the project is currently inactive, it laid a solid foundation for UI design and modular thinking.
 
-🔗 [🌐 Explore the Filmcraft Studio]([https://github.com/rohitcpp/job-placement](https://github.com/Vardaan-Studio/Filmcraft))
+🔗 [🌐 Explore the Filmcraft Studio](https://github.com/Vardaan-Studio/Filmcraft)
 
 ---
 
