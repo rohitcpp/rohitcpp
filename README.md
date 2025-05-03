@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rohit More!
 
-Welcome to my GitHub! I'm a **developer and problem solver** focused on building purposeful apps. Currently working on a **Job Placement Platform** connecting talent with opportunity.
+Welcome to my GitHub! I'm a **developer and problem solver** focused on building purposeful apps. While I'm not actively working on a major project at the moment, I'm fully immersed in **mastering Data Structures and Algorithms using Java** — sharpening the blade before the next big battle.
 
 ---
 
@@ -22,20 +22,14 @@ Here are some of the technologies and tools I use:
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-
 ---
 
-## 🎯 My Current Project: **Job Placement Platform**
+## 🧠 My Current Focus: **Sharpening the Core with DSA + Java**
 
-🚀 This project is a full-fledged platform that connects **job seekers** with **recruiters** through a user-friendly, responsive, and efficient web interface. It is being built using **React.js**, **Next.js**, and modern backend best practices like **Node.js** with **PostgreSQL** as the primary database..
+Right now, I'm not building — I'm training.  
+I'm channeling my full energy into **Data Structures & Algorithms using Java**, solving problems daily, and preparing for what lies ahead in both interviews and real-world challenges. It's not a pause — it's a preparation phase.
 
-### 💼 Key Features:
-- 📄 **Resume Uploader** – Easy upload and parsing of candidate resumes.
-- 🔍 **Job Listing & Filtering** – User-friendly job board to explore relevant opportunities
-- 🧠 **Smart UI Components** – Modular, reusable components for scalability.
-- 📊 **Admin & Recruiter Dashboards** (upcoming) – Easy management of listings and applicants.
-
-🔗 [🌐 Explore the Job Placement Project](https://github.com/rohitcpp/job-placement)
+> "Before constructing great things, a wise builder sharpens his tools."
 
 ---
 
@@ -52,7 +46,6 @@ Here are some of the technologies and tools I use:
 🐦 **X (Twitter):** [@rohit_oncode](https://x.com/rohit_oncode)   
 🔗 **LinkedIn:** [Rohit More](https://www.linkedin.com/in/rohit--more/)  
 📸 **Instagram:** [@vardaan__19](https://www.instagram.com/vardaan__19)
-
 
 ---
 
